@@ -1,11 +1,14 @@
-# SoftTech Software Solutions — Static Website
+# iHub Limited — Static Website
 
-This repository contains a simple static website for SoftTech Software Solutions suitable for hosting on GitHub Pages.
+This repository contains a simple static website for iHub Limited suitable for hosting on GitHub Pages.
+
+iHub Limited is a technology innovation hub that develops software solutions and provides tech services.
+**Registration Number: CPR/2011/82815**
 
 What to do before publishing:
 
 - Replace the placeholder contact details in the HTML files (`info@softtechsolutions.com`, phone, and address) with your official business information.
- - Confirm the business name `SoftTech Software Solutions` is identical across this repo and any external profiles.
+ - Confirm the business name `iHub Limited` is identical across this repo and any external profiles.
 
  - Host copies or authoritative links to your registration documents and provide a clear page that shows the legal name, registration number, and address.
 
