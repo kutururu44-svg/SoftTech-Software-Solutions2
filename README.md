@@ -1,26 +1,53 @@
-# iHub Limited — Static Website
+# iHub Limited — Technology Innovation Hub
 
-This repository contains a simple static website for iHub Limited suitable for hosting on GitHub Pages.
+Professional website for iHub Limited, hosted on GitHub Pages.
 
-iHub Limited is a technology innovation hub that develops software solutions and provides tech services.
-**Registration Number: CPR/2011/82815**
+**iHub Limited** is Africa's leading technology innovation hub dedicated to accelerating innovation and technology adoption across the continent.
 
-What to do before publishing:
+**Registration Number:** CPR/2011/82815  
+**Location:** Nairobi, Kenya
 
-- Replace the placeholder contact details in the HTML files (`info@softtechsolutions.com`, phone, and address) with your official business information.
- - Confirm the business name `iHub Limited` is identical across this repo and any external profiles.
+## Website Structure
 
- - Host copies or authoritative links to your registration documents and provide a clear page that shows the legal name, registration number, and address.
+- **index.html** - Home page with hero section, who we are, and what we do
+- **programs.html** - Details about our programs and initiatives
+- **community.html** - Community spaces, events, and networking
+- **services.html** - Our technology and innovation services
+- **contact.html** - Contact information and message form
+- **privacy.html** - Privacy policy
+- **terms.html** - Terms of service
+- **assets/style.css** - Professional responsive stylesheet
 
-To publish via GitHub Pages:
+## Features
 
-1. Create a new repository on GitHub and push this folder's contents to the repository.
+✅ Professional, modern design inspired by leading innovation hubs  
+✅ Responsive layout for mobile and desktop  
+✅ Multiple program and service pages  
+✅ Community and events section  
+✅ Contact form and business information  
+✅ Comprehensive privacy policy and terms  
+
+## Hosting
+
+Deployed on GitHub Pages at: https://kutururu44-svg.github.io/iHub/
+
+## Updates
+
+To make changes and deploy:
 
 ```bash
-git init
 git add .
-git commit -m "Initial SoftTech website"
-git remote add origin <your-git-remote>
+git commit -m "Your update message"
+git push
+```
+
+Changes will be live within seconds.
+
+## Contact
+
+- **Email:** info@ihublimited.co.ke
+- **Phone:** +254105343557
+- **Address:** 3rd Parklands Avenue, Nairobi, Kenya
 git push -u origin main
 ```
 
