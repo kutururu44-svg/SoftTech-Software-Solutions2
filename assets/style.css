@@ -1,0 +1,21 @@
+:root{
+  --bg:#f7f7fb;
+  --muted:#666;
+  --accent:#0066cc;
+  --maxw:980px;
+}
+*{box-sizing:border-box}
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:var(--bg);color:#111}
+.container{max-width:var(--maxw);margin:0 auto;padding:24px}
+.site-header{background:#fff;border-bottom:1px solid #e6e6ef}
+.site-header .container{display:flex;align-items:center;justify-content:space-between}
+.site-header h1{font-size:1.1rem;margin:0}
+.site-header nav a{margin-left:12px;color:var(--accent);text-decoration:none}
+main.container{padding-top:28px;padding-bottom:28px}
+h2{color:#0b2540}
+ul{line-height:1.6}
+.site-footer{background:#fff;border-top:1px solid #e6e6ef;padding:14px 0;margin-top:40px}
+.muted{color:var(--muted);font-size:0.9rem}
+form input,form textarea{width:100%;padding:8px;margin-top:6px;margin-bottom:12px;border:1px solid #ddd;border-radius:4px}
+button{background:var(--accent);color:#fff;padding:10px 14px;border:none;border-radius:4px;cursor:pointer}
+@media(min-width:720px){.site-header .container{padding:12px 0}.site-header h1{font-size:1.25rem}.site-header nav a{margin-left:18px}}
